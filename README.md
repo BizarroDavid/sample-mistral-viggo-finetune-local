@@ -1,6 +1,6 @@
 # Setup 
 
-Follow these setup steps to prepare to run the Mistral fine tuning [blog post.](https://brev.dev/blog/fine-tuning-mistral) This should run on any *nix systems such as WSL2. (Note: Created using Python 3.9.12.)
+Follow these setup steps to prepare to run the Mistral fine tuning [blog post.](https://brev.dev/blog/fine-tuning-mistral) This should run on any *nix systems such as WSL2 w/ CUDA access.   (Note: Created using Python 3.9.12. w/ Cuda installed)
 
 This project uses virtual env to isolate a python environment and pulls all necessary requirments from a requirements-file. 
 
