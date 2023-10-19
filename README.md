@@ -22,5 +22,4 @@ python -m pip install -r requirements.txt
 #The `python -m` part ensures that you run your virtual environment's pip and not the global pip.
 ```
 
-You can now run the finetune.ipynb.
-
+You can now run the finetune.ipynb. (If you are running on VS Code don't forget to connect it to your virtual environment) 
